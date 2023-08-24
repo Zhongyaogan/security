@@ -1,0 +1,78 @@
+{
+    "code": 200,
+    "data": {
+        "total": 45,
+        "operationRecordList": [
+            {
+                "userId": 1663439001191948290,
+                "userName": "userTest0_0530",
+                "operationType": "登录",
+                "operationTime": "2023-06-14T12:38:52.087+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1663439001191948290,
+                "userName": "userTest0_0530",
+                "operationType": "登出",
+                "operationTime": "2023-06-14T12:41:13.806+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1663439001191948290,
+                "userName": "userTest0_0530",
+                "operationType": "登录",
+                "operationTime": "2023-06-14T12:54:01.723+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1663439001191948290,
+                "userName": "userTest0_0530",
+                "operationType": "登出",
+                "operationTime": "2023-06-14T13:09:18.334+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1663439001191948290,
+                "userName": "userTest0_0530",
+                "operationType": "登录",
+                "operationTime": "2023-06-14T13:09:42.100+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1663439001191948290,
+                "userName": "userTest0_0530",
+                "operationType": "登出",
+                "operationTime": "2023-06-14T13:10:03.065+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1682014764832866306,
+                "userName": "test_20230720",
+                "operationType": "登录",
+                "operationTime": "2023-07-20T13:09:30.550+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1682014764832866306,
+                "userName": "test_20230720",
+                "operationType": "登出",
+                "operationTime": "2023-07-20T13:22:47.211+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1682018054622564353,
+                "userName": "test_20230721",
+                "operationType": "登录",
+                "operationTime": "2023-07-20T13:23:12.118+00:00",
+                "ipAddress": null
+            },
+            {
+                "userId": 1682018054622564353,
+                "userName": "test_20230721",
+                "operationType": "登录",
+                "operationTime": "2023-07-20T13:31:10.325+00:00",
+                "ipAddress": null
+            }
+        ]
+    }
+}
